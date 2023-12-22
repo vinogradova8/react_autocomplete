@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,OACE,YAAa,CACd,OAGC,WAAY,CACZ,qBAAsB,CACtB,WAAY,CAHd,aAKI,cAAe","file":"main.357ca7d7.chunk.css","sourcesContent":["iframe {\n  display: none;\n}\n\nbutton {\n  border: none;\n  background-color: #fff;\n  padding: 2px;\n  &:hover {\n    cursor: pointer;\n  }\n}\n"]}
